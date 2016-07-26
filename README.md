@@ -1,0 +1,2 @@
+# test
+SESYNC workshop traiing
